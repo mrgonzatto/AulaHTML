@@ -1,0 +1,50 @@
+/* 
+    Existem diversas formas de aplicar 
+    estilos CSS aos elementos HTML
+    Para isto, fazemos uso dos SELETORES
+    Podemos utilizar o seletor para aplicar 
+    estilo a um elemento em específico, 
+    a todos os elementos do mesmo tipo, 
+    uma classe de elementos ou até mesmo 
+    seletores mais sofisticados e elaborados.
+*/
+
+body {
+    background-color: #CCCCCC;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    margin: 0px auto;
+    max-width: 900px;
+    border: solid;
+    border-color: #FFFFFF;
+}
+
+header {
+    background-color: #F47D31;
+    display:block;
+    color: #FFFFFF;
+    text-align:center;
+}
+
+header h2{
+    margin: 0px;
+}
+
+h1 {
+    font-size: 72px;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0px;
+    text-align: center;
+    color: #F47D31;
+}
+
+h3 {
+    font-size: 18px;
+    margin: 0px;
+    text-align: center;
+    color: #F47D31;
+}
+
